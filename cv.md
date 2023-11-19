@@ -12,7 +12,7 @@ __GitHub:__ [Korsak-ek](https://github.com/rolling-scopes-school/korsak-ek-JSFE2
 
 ## __About me__:
 
-ISTQB certified QA engineer with 2 years of experience in a manual testing environment. Passionate about quality. 
+ISTQB certified QA engineer with 2 years of experience in a manual testing environment.
 Skilled in discovering defects and ensuring client expectations are met with high-quality software solutions. Can easily collaborate with a wide range of stakeholders to accomplish milestones.
 Inquisitive and eager to work in the tech industry. Interested in growing professionally.
 
@@ -39,7 +39,7 @@ function multiply(a, b){
 
 ## __Education__:
 
-*University:* Minsk State Linguistic University
+*University:* Minsk State Linguistic University (2008-2013 years)
 
 ### Courses: 
 * My Monday 
