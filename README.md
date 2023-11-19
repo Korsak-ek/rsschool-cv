@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Korsak-ek.github.io/rsschool-cv/cv 
