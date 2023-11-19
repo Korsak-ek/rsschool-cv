@@ -28,6 +28,8 @@ Inquisitive and eager to work in the tech industry. Interested in growing profes
 
 ## __Code example__: 
 
+Task while registying on Code wars web page
+
 *“This code does not execute properly. Try to figure out why.”*
 
 ```
